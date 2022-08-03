@@ -1,7 +1,8 @@
 #!/bin/bash
 
-name=Antariksha
+name=antariksha
 service=apache2
+s3-bucket=upgrad-antariksha
 
 echo "update_package:START"
 sudo apt update -y
